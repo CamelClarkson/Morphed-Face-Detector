@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Blasingame"
+  given-names: "Zander"
+  orcid: "https://orcid.org/0000-0002-9508-8425"
+- family-names: "Liu"
+  given-names: "Chen"
+  orcid: "https://orcid.org/0000-0003-1558-6836"
+title: "Morphed-Face-Detector"
+version: 1.0.0
+doi: 10.5281/zenodo.5544552
+date-released: 2021-10-01
+url: "https://github.com/zblasingame/Morphed-Face-Detector"
