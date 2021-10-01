@@ -8,7 +8,7 @@ A MobileNetV2 based morphed face detector trained on a variety of morphs. The mo
 ## Setup
 Make sure tensorflow v2 is installed, e.g., using Anaconda
 ```
-conda install tensorflow-gpu <cudatoolkit=<CUDA_VERSION>
+conda install tensorflow-gpu cudatoolkit=<CUDA_VERSION>
 ```
 Install the repo in the desired project directory.
 
