@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/412588846.svg)](https://zenodo.org/badge/latestdoi/412588846)
+
+
 # Morphed Face Detector
 A MobileNetV2 based morphed face detector trained on a variety of morphs. The morph detector works on images of resolution 1024 x 1024 and is trained against StyleGAN, OpenCV, and FaceMorpher morphs on the FERET and Face Research Lab London (FRLL) databases.
 
