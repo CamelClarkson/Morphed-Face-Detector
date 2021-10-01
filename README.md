@@ -31,7 +31,7 @@ predicted_labels = model.pred(input_images)
 ```
 
 ## Citations
-If you use this software please cite our work and the databases the model was trained against
+If you use this software please cite our work (check the github link) and the databases the model was trained against with citation below
 ```bibtex
 @unknown{unknown,
 author = {Sarkar, Eklavya and Korshunov, Pavel and Colbois, Laurent and Marcel, Sébastien},
