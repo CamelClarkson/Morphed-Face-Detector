@@ -7,7 +7,7 @@ Make sure tensorflow v2 is installed, e.g., using Anaconda
 ```
 conda install tensorflow-gpu <cudatoolkit=<CUDA_VERSION>
 ```
-Then extract the `morph_detector.tar.gz` file into the desired project directory.
+Install the repo in the desired project directory.
 
 ## Usage
 The morph detector takes in 1024x1024x3 input images and ouputs a one-hot vector for the two classes with unscaled logits.
