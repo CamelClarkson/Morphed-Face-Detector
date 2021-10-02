@@ -31,13 +31,4 @@ predicted_labels = model.pred(input_images)
 ```
 
 ## Citations
-If you use this software please cite our [work](https://zenodo.org/record/5544552) and the databases the model was trained against with citation below
-```bibtex
-@unknown{unknown,
-author = {Sarkar, Eklavya and Korshunov, Pavel and Colbois, Laurent and Marcel, Sébastien},
-year = {2020},
-month = {12},
-pages = {},
-title = {Vulnerability Analysis of Face Morphing Attacks from Landmarks and Generative Adversarial Networks}
-}
-```
+If you use this software please cite our [work](https://zenodo.org/record/5544552) and the [databases](https://arxiv.org/abs/2012.05344) the model was trained against
