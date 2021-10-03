@@ -2,7 +2,7 @@
 
 
 # Morphed Face Detector
-A MobileNetV2 based morphed face detector trained on a variety of morphs. The morph detector works on images of resolution 1024 x 1024 and is trained against StyleGAN, OpenCV, and FaceMorpher morphs on the FERET and Face Research Lab London (FRLL) databases.
+A MobileNetV2 based morphed face detector trained against a large database of [morphs](https://arxiv.org/abs/2012.05344). The morph detector works on images of resolution 1024 x 1024 and is trained against StyleGAN, OpenCV, and FaceMorpher morphs on the FERET and Face Research Lab London (FRLL) databases.
 
 
 ## Setup
@@ -30,5 +30,4 @@ To get the label predictions use the following code
 predicted_labels = model.pred(input_images)
 ```
 
-## Citations
-If you use this software please cite our [work](https://zenodo.org/record/5544552) and the [databases](https://arxiv.org/abs/2012.05344) the model was trained against
+
