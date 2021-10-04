@@ -2,7 +2,9 @@
 
 
 # Morphed Face Detector
-A MobileNetV2 based morphed face detector trained against a large database of [morphs](https://arxiv.org/abs/2012.05344). The morph detector works on images of resolution 1024 x 1024 and is trained against StyleGAN, OpenCV, and FaceMorpher morphs on the FERET and Face Research Lab London (FRLL) databases.
+A MobileNetV2 based morphed face detector trained against a large database of [morphs](https://arxiv.org/abs/2012.05344).
+![Mobile Net V2 Architecture](https://1.bp.blogspot.com/-M8UvZJWNW4E/WsKk-tbzp8I/AAAAAAAAChw/OqxBVPbDygMIQWGug4ZnHNDvuyK5FBMcQCLcBGAs/s1600/image5.png)
+The morph detector works on images of resolution 1024 x 1024 and is trained against StyleGAN, OpenCV, and FaceMorpher morphs on the FERET and Face Research Lab London (FRLL) databases.
 
 
 ## Setup
