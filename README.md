@@ -29,5 +29,16 @@ To get the label predictions use the following code
 ```python
 predicted_labels = model.pred(input_images)
 ```
-
+ ## Citation
+ If you use this software, please cite this work
+ ```bibtex
+ @software{Blasingame_MorphedFaceDetector_2021,
+author = {Blasingame, Zander and Liu, Chen},
+doi = {10.5281/zenodo.5544552},
+month = {10},
+title = {{Morphed-Face-Detector}},
+url = {https://github.com/zblasingame/Morphed-Face-Detector},
+version = {1.0.0},
+year = {2021}
+}```
 
