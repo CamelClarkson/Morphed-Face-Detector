@@ -42,5 +42,6 @@ title = {{Morphed-Face-Detector}},
 url = {https://github.com/zblasingame/Morphed-Face-Detector},
 version = {1.0.0},
 year = {2021}
-}```
+}
+```
 
